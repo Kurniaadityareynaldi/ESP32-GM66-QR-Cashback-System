@@ -729,35 +729,6 @@ and is ready for the next transaction.
 
 ---
 
-## Project Structure
-
-Recommended repository structure:
-
-```text
-ESP32_QR_Solenoid_Printer/
-│
-├── src/
-│   └── ESP32_QR_Solenoid_Printer_1.ino
-├── README.md
-└── LICENSE
-```
-
-Additional files can be added later if the project is separated into modules:
-
-```text
-ESP32_QR_Solenoid_Printer/
-│
-├── src/
-│   └── database/
-│   └── docs/
-│   └── ESP32_QR_Solenoid_Printer_1.ino
-│   └── include/
-├── README.md
-└── LICENSE
-```
-
----
-
 ## Development Notes
 
 This firmware is intended as a control-system prototype/reference implementation for an automated QR-based bottle collection and cashback system.
@@ -810,8 +781,9 @@ For a permissive hardware/software project, the **MIT License** is a straightfor
 
 **Kurnia Aditya Reynaldi**
 
-Electrical Engineer
-Indonesia
+Electrical Engineer | Embedded Systems | Control Systems
+
+Contributions, issues, and pull requests are welcome.
 
 ---
 
